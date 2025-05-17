@@ -1,0 +1,11 @@
+D:\WorkSpace\Cursor\Moduels\Module-demo\Module-demo\bin\Debug\Module-demo.exe.config
+D:\WorkSpace\Cursor\Moduels\Module-demo\Module-demo\bin\Debug\Module-demo.exe
+D:\WorkSpace\Cursor\Moduels\Module-demo\Module-demo\bin\Debug\Module-demo.pdb
+D:\WorkSpace\Cursor\Moduels\Module-demo\Module-demo\obj\Debug\Module-login.csproj.AssemblyReference.cache
+D:\WorkSpace\Cursor\Moduels\Module-demo\Module-demo\obj\Debug\Module_demo.loginin_pannel.resources
+D:\WorkSpace\Cursor\Moduels\Module-demo\Module-demo\obj\Debug\Module_demo.Properties.Resources.resources
+D:\WorkSpace\Cursor\Moduels\Module-demo\Module-demo\obj\Debug\Module-login.csproj.GenerateResource.cache
+D:\WorkSpace\Cursor\Moduels\Module-demo\Module-demo\obj\Debug\Module-login.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Cursor\Moduels\Module-demo\Module-demo\obj\Debug\Module-demo.exe
+D:\WorkSpace\Cursor\Moduels\Module-demo\Module-demo\obj\Debug\Module-demo.pdb
+D:\WorkSpace\Cursor\Moduels\Module-demo\Module-demo\obj\Debug\Module_demo.calculate_pannel.resources
