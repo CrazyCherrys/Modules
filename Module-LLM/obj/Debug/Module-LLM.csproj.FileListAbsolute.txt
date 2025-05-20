@@ -1,0 +1,10 @@
+D:\WorkSpace\Cursor\Modules\Module-LLM\bin\Debug\Module-LLM.exe.config
+D:\WorkSpace\Cursor\Modules\Module-LLM\bin\Debug\Module-LLM.exe
+D:\WorkSpace\Cursor\Modules\Module-LLM\bin\Debug\Module-LLM.pdb
+D:\WorkSpace\Cursor\Modules\Module-LLM\obj\Debug\Module_LLM.calculate_pannel.resources
+D:\WorkSpace\Cursor\Modules\Module-LLM\obj\Debug\Module_LLM.loginin_pannel.resources
+D:\WorkSpace\Cursor\Modules\Module-LLM\obj\Debug\Module_LLM.Properties.Resources.resources
+D:\WorkSpace\Cursor\Modules\Module-LLM\obj\Debug\Module-LLM.csproj.GenerateResource.cache
+D:\WorkSpace\Cursor\Modules\Module-LLM\obj\Debug\Module-LLM.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Cursor\Modules\Module-LLM\obj\Debug\Module-LLM.exe
+D:\WorkSpace\Cursor\Modules\Module-LLM\obj\Debug\Module-LLM.pdb
